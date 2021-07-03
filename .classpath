@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/docs/json-path-4.3.1-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/docs/json-path-4.3.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/docs/json-schema-validator-4.3.1-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/docs/json-schema-validator-4.3.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/docs/rest-assured-4.3.1-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/docs/rest-assured-4.3.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/docs/rest-assured-common-4.3.1-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/docs/rest-assured-common-4.3.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/docs/xml-path-4.3.1-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/docs/xml-path-4.3.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/activation-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/btf-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/commons-codec-1.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/commons-lang3-3.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/groovy-3.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/groovy-json-3.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/groovy-xml-3.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/guava-16.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/hamcrest-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/httpclient-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/httpcore-4.4.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/httpmime-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/jackson-annotations-2.11.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/jackson-core-2.11.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/jackson-coreutils-1.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/jackson-databind-2.11.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/jaxb-impl-2.3.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/joda-time-2.9.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/jopt-simple-5.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/json-path-4.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/json-schema-core-1.2.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/json-schema-validator-2.2.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/json-schema-validator-4.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/jsr305-3.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/libphonenumber-8.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/mailapi-1.4.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/msg-simple-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/rest-assured-4.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/rhino-1.7.7.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/scala-library-2.13.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/scala-support-4.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/tagsoup-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/uri-template-0.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/naman/RestAssuredBDDFrameword/xml-path-4.3.1.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
